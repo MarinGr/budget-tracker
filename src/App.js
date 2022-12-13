@@ -48,7 +48,7 @@ const Header = styled.h1`
   width: 100%;
   text-align: center;
   padding: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
   font-family: "Roboto Serif", serif;
 `;
 
